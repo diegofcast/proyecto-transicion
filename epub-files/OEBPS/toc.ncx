@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:2f142787-78de-44e7-a43a-4628cb4e1845"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Gobierno Cívico Militar de la República en
+Arma y para la Transición Cubana</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Título</text>
+      </navLabel>
+      <content src="Text/TitlePage.xhtml"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Prólogo</text>
+        </navLabel>
+        <content src="Text/Prologo.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>INTRODUCCIÓN</text>
+        </navLabel>
+        <content src="Text/Introduccion.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Paso #1: ¿Cómo derrotar a la dictadura?</text>
+        </navLabel>
+        <content src="Text/Paso1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Paso #2: Reducir el Vacío de Poder a menor tiempo posible.</text>
+        </navLabel>
+        <content src="Text/Paso2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Paso #3: Comienza la Transición del Socialismo Totalitario Castrista al CapitalismoC40.</text>
+        </navLabel>
+        <content src="Text/Paso3.xhtml"/>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>PRIMER AÑO DE LA TRANSICIÓN POLÍTICA</text>
+          </navLabel>
+          <content src="Text/Paso3.xhtml#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>SEGUNDO AÑO DE LA TRANSICIÓN POLÍTICA.</text>
+          </navLabel>
+          <content src="Text/Paso3.xhtml#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>TERCER AÑO DE LA TRANSICIÓN POLÍTICA.</text>
+          </navLabel>
+          <content src="Text/Paso3.xhtml#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>CUARTO AÑO DE LA TRANSICIÓN POLÍTICA.</text>
+          </navLabel>
+          <content src="Text/Paso3.xhtml#sigil_toc_id_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Paso #4:</text>
+        </navLabel>
+        <content src="Text/Paso4.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>¿Qué es la EstrategiaC40?</text>
+        </navLabel>
+        <content src="Text/Estrategia.xhtml"/>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>La #EstrategiaC40 y las zonas geográficas.</text>
+          </navLabel>
+          <content src="Text/Estrategia.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>La #EstrategiaC40 y las 6 entidades fundamentales.</text>
+          </navLabel>
+          <content src="Text/Estrategia.xhtml#sigil_toc_id_6"/>
+          <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+              <text>1- DefensoresC40</text>
+            </navLabel>
+            <content src="Text/Estrategia.xhtml#sigil_toc_id_7"/>
+          </navPoint>
+          <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+              <text>2- Gobierno Cívico Militar.</text>
+            </navLabel>
+            <content src="Text/Estrategia.xhtml#sigil_toc_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+              <text>3- ClandestinosC40</text>
+            </navLabel>
+            <content src="Text/Estrategia.xhtml#sigil_toc_id_9"/>
+          </navPoint>
+          <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+              <text>4- LíderesC40</text>
+            </navLabel>
+            <content src="Text/Estrategia.xhtml#sigil_toc_id_10"/>
+          </navPoint>
+          <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+              <text>5- PersonalidadesC40.</text>
+            </navLabel>
+            <content src="Text/Estrategia.xhtml#sigil_toc_id_11"/>
+          </navPoint>
+          <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+              <text>6- MunicipiosC40</text>
+            </navLabel>
+            <content src="Text/Estrategia.xhtml#sigil_toc_id_12"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>Etapas por las que transita la #EstrategiaC40.</text>
+          </navLabel>
+          <content src="Text/Estrategia.xhtml#sigil_toc_id_13"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>Clase de política, cívica, tácticas y estrategias contra los castros del día de hoy:</text>
+          </navLabel>
+          <content src="Text/Estrategia.xhtml#sigil_toc_id_14"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Decreto #1: Sobre la creación de la figura del Presidente de la República en Armas.</text>
+        </navLabel>
+        <content src="Text/Decreto1.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Decreto #2: Legalidad de la violencia contra la Familia Castro, sus capos y sicarios bajo la C-40.</text>
+        </navLabel>
+        <content src="Text/Decreto2.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Decreto #5: Oferta de garantías de libertad a los altos cargos de la FAR y así evitar una inútil masacre entre cubanos armados.</text>
+        </navLabel>
+        <content src="Text/Decreto5.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Decreto #6: Creación de las Fuerzas Armadas Republicanas; tambien a partir de miempos de la FAR.</text>
+        </navLabel>
+        <content src="Text/Decreto6.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Decreto #7: Decreto sobre las propiedades inmobiliarias.</text>
+        </navLabel>
+        <content src="Text/Decreto7.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Decreto #8: Lucha contra los intentos de corromper los miembros de mi gobierno.</text>
+        </navLabel>
+        <content src="Text/Decreto8.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Decreto #9: Sobre el destino de la industria estatal cubana y sus trabajadores.</text>
+        </navLabel>
+        <content src="Text/Decreto9.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Decreto #10: Decreto de la Tierra</text>
+        </navLabel>
+        <content src="Text/Decreto10.xhtml"/>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Misceláneas generales para que los cubanos.</text>
+          </navLabel>
+          <content src="Text/Decreto10.xhtml#sigil_toc_id_15"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Decreto #11: Sobre los títulos derogados por la dictadura socialista a profesionales cubanos graduados.</text>
+        </navLabel>
+        <content src="Text/Decreto11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Decreto #12: Deuda de Batista y la Familia Castro: ¿Que hará con ella mi gobierno Cívico Militar de la Transición?</text>
+        </navLabel>
+        <content src="Text/Decreto12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Decreto #13: Censo de población y lugar de residencia.</text>
+        </navLabel>
+        <content src="Text/Decreto13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Decreto #14: Departamento de Seguridad para los Políticos.</text>
+        </navLabel>
+        <content src="Text/Decreto14.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Decreto #16: Sobre la doble ciudadanía.</text>
+        </navLabel>
+        <content src="Text/Decreto16.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Decreto #18: Sobre el respeto partidista a los Símbolos Patrios como la Bandera: La Bandera Cubana no es la Real desde 1869.</text>
+        </navLabel>
+        <content src="Text/Decreto18.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Elementos a tener en cuenta.</text>
+        </navLabel>
+        <content src="Text/Elementos.xhtml"/>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Por tanto.</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>Confiscaciones.</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_17"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Deuda de los Castros.</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Tiempo de la Transición.</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>Transiciones.</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>Ley Hells Burton</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_21"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>Acuerdos por la Acuerdos por la Democracia para una Transición en Cuba.</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_22"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>Solución al caso cubano según las potencias</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>Sobre el Vacío de Poder</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>El abuso del lenguaje</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_25"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>El 3er Paradigma.</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_26"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>Democristianos</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_27"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>Gustavo Vigoa hablando con Cuba</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_28"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>Estructuras del Estado</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_29"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>“Rusia, revolución conservadora”</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_30"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>“Daniel Ortega”</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_31"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>“La Transición Española”</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_32"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>“Mas transiciones”</text>
+          </navLabel>
+          <content src="Text/Elementos.xhtml#sigil_toc_id_33"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>CONCLUSIONES</text>
+        </navLabel>
+        <content src="Text/Conclusiones.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
